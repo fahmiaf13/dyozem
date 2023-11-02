@@ -1,4 +1,3 @@
-import React from "react";
 import { useScreenSize } from "@/hooks/useDimension";
 
 export default function Navbar() {
